@@ -3,8 +3,6 @@
 
 import string
 
-__author__ = 'kiven'
-
 alphas = string.letters + '_'
 nums = string.digits
 
